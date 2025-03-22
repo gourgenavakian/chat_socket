@@ -40,8 +40,8 @@ This is a fullstack chat application built with React, Node.js, and MongoDB, off
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/your-username/your-repo.git
-cd your-repo
+git clone git@github.com:gourgenavakian/chat_socket.git
+cd chat_socket
 ```
 
 ### 2️⃣ Run with Docker
